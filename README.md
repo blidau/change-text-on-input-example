@@ -1,2 +1,3 @@
-# change-text-on-input-example
-An example of changing text when input changes
+# Change text on input
+
+An empty webpage for HTML/CSS/JavaScript exercises.
